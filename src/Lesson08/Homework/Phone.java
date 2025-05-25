@@ -30,10 +30,10 @@ public class Phone {
 
     @Override
     public String toString() {
-        return "Phone{" +
-                "model='" + model + '\'' +
-                ", color='" + color + '\'' +
-                ", isSilent=" + isSilent +
+        return "Телефон {" +
+                "Модель : ='" + model + '\'' +
+                ", Цвет : ='" + color + '\'' +
+                ", Выключен ? =" + isSilent +
                 '}';
     }
 }
