@@ -1,4 +1,4 @@
-package Lesson08.Homework.aufgabe1.var01;
+package Lesson08.Homework;
 
 public class Phone {
 

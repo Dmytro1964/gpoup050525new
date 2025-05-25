@@ -1,4 +1,4 @@
-package Lesson08.Homework.var01;
+package Lesson08.Homework;
 
 import java.util.Scanner;
 
