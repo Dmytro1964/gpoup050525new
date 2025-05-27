@@ -1,4 +1,4 @@
-package Lesson10.var02;
+package Lesson10.Homework.var02;
 
 public class PizzaUtil {
 

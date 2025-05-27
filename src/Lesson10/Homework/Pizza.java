@@ -1,4 +1,4 @@
-package Lesson10.Pizza.var01;
+package Lesson10.Homework;
 
 public class Pizza {
     public static void main(String[] args) {
