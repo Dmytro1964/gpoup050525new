@@ -15,6 +15,8 @@ public class Book {
     // Метод "выдачи" книги
     public void issueBook(){
         isIssued = true;}
+    // метод возврата книги
+
     public void returnBook(){
         isIssued = false;
     }

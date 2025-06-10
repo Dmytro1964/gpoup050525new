@@ -1,5 +1,7 @@
 package Lesson03.Homework;
 
+import Lesson17.Homework.UserInputStatic;
+
 public class BookDemo {
     public static void main(String[] args) {
 
@@ -9,8 +11,18 @@ public class BookDemo {
         book1.issueBook();
         book2.returnBook();
 
+
+
         System.out.println(book1);
-        System.out.println(book2)
-        ;
+        System.out.println(book2);
+
+        System.out.println("Введите название книги");
+        String bookName = UserInputStatic.scanner.nextLine();
+        System.out.println( "Название книги : " + bookName);
+
+
+
+
     }
+
 }
